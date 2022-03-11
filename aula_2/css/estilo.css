@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(116, 97, 161);
+    color: rgb(46, 66, 66);
+    align-items: center;
+font-size: 25px;
+}
+/* 
+usar class para elementos
+*/
+/*
+usar ID para conjuntos
+*/
+#principal{
+    width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+    margin: auto;
+    background-color: rgb(101, 35, 224);
+    align-items: center;
+    text-align: center;
+    font-size: 100px;
+}
+#pai{
+    width: 1000px;
+    height: 1200px;
+    background-color: #7d59d1;
+    border: 2px solid black;
+    position: relative;
+    margin: auto; 
+}
+#filho_cabeca{
+    width: 990px;
+    height: 200px;
+    background-color: rgb(101, 35, 224);
+    border: 2px solid black;
+    align-items: center;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#filho_pe{
+    width: 990px;
+    height: 250px;
+    background-color: rgb(101, 35, 224);
+    border: 2px solid black;
+    position: absolute;
+    margin-top: 930px;
+    margin-left: 5px;
+    
+}
+#filho_grande{
+    width: 990px;
+    height: 700px;
+    background-color: rgb(191, 146, 233);
+    border: 2px solid black;
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 5px;
+}
+img{
+    width: 900px;
+    height: 650px;
+    
+}

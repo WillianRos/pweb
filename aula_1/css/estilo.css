@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(84, 49, 165);
+    color: aqua;
+    align-items: center;
+font-size: 60px;
+}
+/* 
+usar class para elementos
+*/
+/*
+usar ID para conjuntos
+*/
+#principal{
+    width: 400px;
+    height: 300px;
+    border: 1px solid #000;
+    margin: auto;
+    background-color: rgb(58, 114, 151);
+    align-items: center;
+    text-align: center;
+    font-size: 100px;
+}
